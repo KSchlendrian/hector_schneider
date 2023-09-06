@@ -5,11 +5,24 @@
   text-decoration: none;
 }
 
+body {
+  margin-top: 100px;
+  text-align: center;
+}
+
 .hero {
   width: 300px;
   object-fit: contain;
+  text-align: center;
 }
 
 .work_p {
   width: 600px;
+  display: inline-block;
+  text-align: center;
+}
+
+.headline {
+  color: #ffe81e;
+  text-align: center;
 }
